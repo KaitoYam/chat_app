@@ -13,3 +13,10 @@ git add -u:変更点だけ更新
 git commit -m "":”メッセージ”付きでコミットする
 git push origin ＜ブランチ名＞:ブランチにプッシュする
 
+
+a
+a
+
+a
+a
+
