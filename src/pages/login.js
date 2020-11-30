@@ -28,7 +28,7 @@ const login = () => {
             value="ログイン"
           />
         </div>
-        <p><a href="signUp.js">新規登録</a></p>
+        <p><a href="signUp">新規登録</a></p>
       </form>
     </>
   )

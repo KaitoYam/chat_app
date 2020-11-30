@@ -28,7 +28,7 @@ const signUp = () => {
         />
       </div>
       <button type="submit">登録</button>
-      <p><a href="login.js">ログイン</a></p>
+      <p><a href="login">ログイン</a></p>
     </>
   )
 }
